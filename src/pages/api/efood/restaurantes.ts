@@ -1,4 +1,4 @@
-import restaurantes from '@/mocks/restaurantes'
+import restaurantes from '../../../mocks/restaurantes'
 
 import type { NextApiRequest, NextApiResponse } from 'next'
 import Cors from 'cors'

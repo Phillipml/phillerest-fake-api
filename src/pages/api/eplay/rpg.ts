@@ -1,4 +1,4 @@
-import { rpg } from '@/mocks/jogos'
+import { rpg } from '../../../mocks/jogos'
 
 import type { NextApiRequest, NextApiResponse } from 'next'
 import Cors from 'cors'

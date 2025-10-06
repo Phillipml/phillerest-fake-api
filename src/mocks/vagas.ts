@@ -1,4 +1,4 @@
-import Vaga from "@/models/Vaga";
+import Vaga from "../models/Vaga";
 
 const vagas = [
     new Vaga(1,

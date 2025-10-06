@@ -1,5 +1,5 @@
-import vagas from '@/mocks/vagas'
-import Vaga from '@/models/Vaga'
+import vagas from '../../mocks/vagas'
+import Vaga from '../../models/Vaga'
 import type { NextApiRequest, NextApiResponse } from 'next'
 import Cors from 'cors'
 
