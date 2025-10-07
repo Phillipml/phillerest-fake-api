@@ -1,4 +1,4 @@
-import testData from '../../mocks/test'
+import testData from '../mocks/test'
 
 import type { NextApiRequest, NextApiResponse } from 'next'
 

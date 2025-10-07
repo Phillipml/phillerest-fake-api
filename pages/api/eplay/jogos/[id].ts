@@ -1,5 +1,5 @@
 
-import { jogos } from '../../../../mocks/jogos'
+import { jogos } from '../../../mocks/jogos'
 
 import type { NextApiRequest, NextApiResponse } from 'next'
 import Cors from 'cors'
